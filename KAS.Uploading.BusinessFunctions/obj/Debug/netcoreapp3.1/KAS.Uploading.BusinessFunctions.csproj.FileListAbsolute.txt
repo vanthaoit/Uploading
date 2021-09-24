@@ -1,0 +1,14 @@
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.Uploading.BusinessFunctions.deps.json
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.Uploading.BusinessFunctions.dll
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.Uploading.BusinessFunctions.pdb
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.dll
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.Uploading.Models.dll
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.pdb
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.Uploading.Models.pdb
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.Uploading.BusinessFunctions.csprojAssemblyReference.cache
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.Uploading.BusinessFunctions.AssemblyInfoInputs.cache
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.Uploading.BusinessFunctions.AssemblyInfo.cs
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.Uploading.BusinessFunctions.csproj.CoreCompileInputs.cache
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.Uploading.BusinessFunctions.csproj.CopyComplete
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.Uploading.BusinessFunctions.dll
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.Uploading.BusinessFunctions.pdb

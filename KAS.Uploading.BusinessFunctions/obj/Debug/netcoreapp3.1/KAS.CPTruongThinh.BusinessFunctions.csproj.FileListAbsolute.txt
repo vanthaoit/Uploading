@@ -1,0 +1,14 @@
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.BusinessFunctions.deps.json
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.BusinessFunctions.dll
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.BusinessFunctions.pdb
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.dll
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.Models.dll
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.pdb
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.Models.pdb
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.BusinessFunctions.csprojAssemblyReference.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.BusinessFunctions.AssemblyInfoInputs.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.BusinessFunctions.AssemblyInfo.cs
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.BusinessFunctions.csproj.CoreCompileInputs.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.BusinessFunctions.csproj.CopyComplete
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.BusinessFunctions.dll
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.BusinessFunctions\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.BusinessFunctions.pdb

@@ -1,0 +1,9 @@
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.Models\bin\Release\netcoreapp3.1\KAS.CPTruongThinh.Models.deps.json
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.Models\bin\Release\netcoreapp3.1\KAS.CPTruongThinh.Models.dll
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.Models\bin\Release\netcoreapp3.1\KAS.CPTruongThinh.Models.pdb
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.Models\obj\Release\netcoreapp3.1\KAS.CPTruongThinh.Models.csprojAssemblyReference.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.Models\obj\Release\netcoreapp3.1\KAS.CPTruongThinh.Models.csproj.CoreCompileInputs.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.Models\obj\Release\netcoreapp3.1\KAS.CPTruongThinh.Models.AssemblyInfoInputs.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.Models\obj\Release\netcoreapp3.1\KAS.CPTruongThinh.Models.AssemblyInfo.cs
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.Models\obj\Release\netcoreapp3.1\KAS.CPTruongThinh.Models.dll
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.Models\obj\Release\netcoreapp3.1\KAS.CPTruongThinh.Models.pdb

@@ -1,0 +1,11 @@
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.Server.Share\bin\Release\netcoreapp3.1\KAS.Server.Share.deps.json
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.Server.Share\bin\Release\netcoreapp3.1\KAS.Server.Share.dll
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.Server.Share\bin\Release\netcoreapp3.1\KAS.Server.Share.pdb
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.Server.Share\obj\Release\netcoreapp3.1\KAS.Server.Share.csprojAssemblyReference.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.Server.Share\obj\Release\netcoreapp3.1\KAS.Server.Share.Strings.ErrorResources.resources
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.Server.Share\obj\Release\netcoreapp3.1\KAS.Server.Share.csproj.GenerateResource.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.Server.Share\obj\Release\netcoreapp3.1\KAS.Server.Share.AssemblyInfoInputs.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.Server.Share\obj\Release\netcoreapp3.1\KAS.Server.Share.AssemblyInfo.cs
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.Server.Share\obj\Release\netcoreapp3.1\KAS.Server.Share.csproj.CoreCompileInputs.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.Server.Share\obj\Release\netcoreapp3.1\KAS.Server.Share.dll
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.Server.Share\obj\Release\netcoreapp3.1\KAS.Server.Share.pdb

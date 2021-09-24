@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\KAMIKAZE SOLUTIONS\\SOURCE CODE\\GIT\\Upload_Download\\ExecuteFolder\\KAS.Uploading.DataAccess\\KAS.Uploading.DataAccess.csproj": {}
+  },
+  "projects": {
+    "G:\\KAMIKAZE SOLUTIONS\\SOURCE CODE\\GIT\\Upload_Download\\ExecuteFolder\\KAS.Uploading.DataAccess\\KAS.Uploading.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\KAMIKAZE SOLUTIONS\\SOURCE CODE\\GIT\\Upload_Download\\ExecuteFolder\\KAS.Uploading.DataAccess\\KAS.Uploading.DataAccess.csproj",
+        "projectName": "KAS.Uploading.DataAccess",
+        "projectPath": "G:\\KAMIKAZE SOLUTIONS\\SOURCE CODE\\GIT\\Upload_Download\\ExecuteFolder\\KAS.Uploading.DataAccess\\KAS.Uploading.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ThaoFrederic\\.nuget\\packages\\",
+        "outputPath": "G:\\KAMIKAZE SOLUTIONS\\SOURCE CODE\\GIT\\Upload_Download\\ExecuteFolder\\KAS.Uploading.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ThaoFrederic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "G:\\KAMIKAZE SOLUTIONS\\SOURCE CODE\\GIT\\Upload_Download\\ExecuteFolder\\KAS.Uploading.Models\\KAS.Uploading.Models.csproj": {
+                "projectPath": "G:\\KAMIKAZE SOLUTIONS\\SOURCE CODE\\GIT\\Upload_Download\\ExecuteFolder\\KAS.Uploading.Models\\KAS.Uploading.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\KAMIKAZE SOLUTIONS\\SOURCE CODE\\GIT\\Upload_Download\\ExecuteFolder\\KAS.Uploading.Models\\KAS.Uploading.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\KAMIKAZE SOLUTIONS\\SOURCE CODE\\GIT\\Upload_Download\\ExecuteFolder\\KAS.Uploading.Models\\KAS.Uploading.Models.csproj",
+        "projectName": "KAS.Uploading.Models",
+        "projectPath": "G:\\KAMIKAZE SOLUTIONS\\SOURCE CODE\\GIT\\Upload_Download\\ExecuteFolder\\KAS.Uploading.Models\\KAS.Uploading.Models.csproj",
+        "packagesPath": "C:\\Users\\ThaoFrederic\\.nuget\\packages\\",
+        "outputPath": "G:\\KAMIKAZE SOLUTIONS\\SOURCE CODE\\GIT\\Upload_Download\\ExecuteFolder\\KAS.Uploading.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ThaoFrederic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

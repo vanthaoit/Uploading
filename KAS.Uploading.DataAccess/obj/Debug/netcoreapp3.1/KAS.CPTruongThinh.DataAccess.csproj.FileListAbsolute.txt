@@ -1,0 +1,15 @@
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.deps.json
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.runtimeconfig.json
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.runtimeconfig.dev.json
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.dll
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.pdb
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.Models.dll
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\bin\Debug\netcoreapp3.1\KAS.CPTruongThinh.Models.pdb
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.csprojAssemblyReference.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.AssemblyInfoInputs.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.AssemblyInfo.cs
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.csproj.CoreCompileInputs.cache
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.csproj.CopyComplete
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.dll
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.pdb
+G:\KAMIKAZE SOLUTIONS\PROJECT\kamikaze-truongthinh\Source\KAS.TruongThinhAzure\CorePortalTruongThinhAPI\KAS.CPTruongThinh.DataAccess\obj\Debug\netcoreapp3.1\KAS.CPTruongThinh.DataAccess.genruntimeconfig.cache

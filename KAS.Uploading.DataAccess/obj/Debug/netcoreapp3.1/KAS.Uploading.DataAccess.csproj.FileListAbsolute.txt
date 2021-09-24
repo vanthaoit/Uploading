@@ -1,0 +1,15 @@
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\bin\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.deps.json
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\bin\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.runtimeconfig.json
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\bin\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.runtimeconfig.dev.json
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\bin\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.dll
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\bin\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.pdb
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\bin\Debug\netcoreapp3.1\KAS.Uploading.Models.dll
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\bin\Debug\netcoreapp3.1\KAS.Uploading.Models.pdb
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\obj\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.csprojAssemblyReference.cache
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\obj\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.AssemblyInfoInputs.cache
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\obj\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.AssemblyInfo.cs
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\obj\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.csproj.CoreCompileInputs.cache
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\obj\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.csproj.CopyComplete
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\obj\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.dll
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\obj\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.pdb
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.DataAccess\obj\Debug\netcoreapp3.1\KAS.Uploading.DataAccess.genruntimeconfig.cache

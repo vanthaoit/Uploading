@@ -1,0 +1,9 @@
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.Models\bin\Debug\netcoreapp3.1\KAS.Uploading.Models.deps.json
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.Models\bin\Debug\netcoreapp3.1\KAS.Uploading.Models.dll
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.Models\bin\Debug\netcoreapp3.1\KAS.Uploading.Models.pdb
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.Models\obj\Debug\netcoreapp3.1\KAS.Uploading.Models.csprojAssemblyReference.cache
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.Models\obj\Debug\netcoreapp3.1\KAS.Uploading.Models.AssemblyInfoInputs.cache
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.Models\obj\Debug\netcoreapp3.1\KAS.Uploading.Models.AssemblyInfo.cs
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.Models\obj\Debug\netcoreapp3.1\KAS.Uploading.Models.csproj.CoreCompileInputs.cache
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.Models\obj\Debug\netcoreapp3.1\KAS.Uploading.Models.dll
+G:\KAMIKAZE SOLUTIONS\SOURCE CODE\GIT\Upload_Download\ExecuteFolder\KAS.Uploading.Models\obj\Debug\netcoreapp3.1\KAS.Uploading.Models.pdb
