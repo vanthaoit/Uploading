@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Net;
 using System.Net.Http;
@@ -39,6 +40,15 @@ namespace KAS.Uploading.API.Controllers
         {
             try
             {
+
+                var runtime = _config.GetValue<string>("DMReporting:RunTime");
+                string[] runtimes = runtime.Split(";");
+
+                DateTime d = new DateTime(1, 1, 1, 23, 12, 0);
+                var res = d.ToString("HH:mm tt", CultureInfo.InvariantCulture); // this show  11:12 Pm
+
+                DateTime dt = DateTime.Parse(runtimes[0]);
+
                 await WriteToExcelFolder();
                 var resp = _MenuService.GetAll();
 
@@ -57,7 +67,8 @@ namespace KAS.Uploading.API.Controllers
             HttpResponseMessage response = new HttpResponseMessage();
             try
             {
-                List<DMReportingModel> dmReportings = GetDMReportings();
+                //List<DMReportingModel> dmReportings = GetDMReportings();
+                List<DMReportingModel> dmReportings = new List<DMReportingModel>();
                 var totalRecords = dmReportings.Count;
 
                 using (XLWorkbook wb = new XLWorkbook())
@@ -188,7 +199,7 @@ namespace KAS.Uploading.API.Controllers
 
         private string GetPathFolder(string file)
         {
-            var folderPath = @"" + _config.GetValue<string>("DMReportingPathFolder");
+            var folderPath = @"" + _config.GetValue<string>("DMReporting:PathFolder");
 
             var fileName = file + ".xlsx";
 
