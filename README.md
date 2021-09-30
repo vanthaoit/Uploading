@@ -1,3 +1,15 @@
+sp_configure 'show advanced options', 1 
+GO 
+RECONFIGURE; 
+GO 
+sp_configure 'Ole Automation Procedures', 1 
+GO 
+RECONFIGURE; 
+GO 
+sp_configure 'show advanced options', 1 
+GO 
+RECONFIGURE;
+
 DECLARE @URL NVARCHAR(MAX) = 'http://localhost:3500/api/menu/getall';
 Declare @Object as Int;
 Declare @ResponseText as Varchar(8000);
@@ -34,3 +46,4 @@ Exec sp_OADestroy @Object
 		@file nvarchar(400) = 'DM Reporting 092920210913.xlsx'
 SET @FileName='G:\DMReporting\'+@file
 SET @sql= 'exec master.dbo.xp_cmdshell ''del '+@FileName+''''
+EXEC(@sql)
